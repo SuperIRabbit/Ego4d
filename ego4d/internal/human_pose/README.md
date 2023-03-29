@@ -80,4 +80,3 @@ python3 ego4d/internal/human_pose/main.py --config-name unc_T1 mode=preprocess r
 
 # TODOs
 - [ ] TODO: scale horizontally / run via SLURM
-- [ ] Temporal smoothing
